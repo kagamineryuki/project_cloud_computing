@@ -1,7 +1,14 @@
 # Tugas Cloud Computing
+Mulai project rasane aneh klo gak ada quote.
+jadi ini quote dari papah mamah
+
 >*Tugas saya simpel kok.*
 
 -Pak Daniel
+
+>*Tugas nya harus saya kasih yang susah - susah ini*
+
+-Kak Ros
 
 ## Piye cara nganggo github
 ndelok youtube karo googling :stuck_out_tongue: .
