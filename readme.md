@@ -18,6 +18,8 @@ bercanda, berikut ini cara nge-clone dan mulai bagian project masing - masing
 ### Papah minta uang
 Berikut ini cara minta repo buat project-nya papah
 
+- Minta dibikinin branch sama om @kagamineryuki :stuck_out_tongue:
+
 - ```git clone https://github.com/kagamineryuki/project_cloud_computing.git ```
 
 Git clone fungsinya buat nyomot dari server github. Klo error authenticated atau apalah, minta invitation dari @kagamineryuki sang empunya repo ini. Inget, jangan dari Atom. Tuh IDE rada gila :dizzy_face:
